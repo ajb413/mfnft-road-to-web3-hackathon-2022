@@ -1,0 +1,6 @@
+notes.txt
+.DS_Store
+/*/**/node_modules/
+/*/**/keys.json
+/*/**/artifacts
+/*/**/cache

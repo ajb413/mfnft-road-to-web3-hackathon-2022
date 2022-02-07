@@ -1,0 +1,18 @@
+{
+  "name": "my-first-nft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx hardhat run scripts/mfnft.localchain.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "4.3.1",
+    "hardhat": "^2.6.1",
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "ethers": "^5.4.5"
+  }
+}
